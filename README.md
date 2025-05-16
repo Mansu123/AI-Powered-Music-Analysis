@@ -6,6 +6,9 @@
 🔗 **Try the App Live on Hugging Face Spaces**:  
 👉 https://huggingface.co/spaces/Mansuba/AI-Powered-Music-Analysis
 
+🔗 **Overview of system by Video**:  
+👉 https://youtu.be/1ijlv18tRic?si=DNrTHD7TM4Omgbl8
+
 ---
 
 ## 🎶 Overview
